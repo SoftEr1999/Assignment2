@@ -1,7 +1,12 @@
 
 public class MatrixTransposeMultiplicationElement {
+	
+	/*
+	 * Question:- Find Transpose of matrix {{1,2},{4,5},{8,9}} and
+	 * multiplication of all members in matrix
+	 */
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		
 		//Initializing and declaring the matrix 3*2
 		int [][]mat = new int[][] { {1,2}, {4,5}, {8,9}};
